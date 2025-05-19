@@ -1,1 +1,1 @@
-# odin-recipes
+This project shows the recipes of my favorite dishes, along with picture of each dish. 
